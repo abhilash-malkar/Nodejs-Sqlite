@@ -28,13 +28,14 @@ npm install dotenv
 ```
 
 Run frontend:
-./Nodejs-Sqlite/sqlite-frontend/
+ ./Nodejs-Sqlite/sqlite-frontend/
 ```
 npm start
 ```
 
-./Nodejs-Sqlite/sqlite-backend/
+
 Run backend Server:
+ ./Nodejs-Sqlite/sqlite-backend/
 ```
 nodemon
 ```
