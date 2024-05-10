@@ -13,8 +13,11 @@ npm install sqlite3
 ```
 
 ```
-npm install cors;
-npm install dotenv;
+npm install cors
+```
+
+```
+npm install dotenv
 ```
 
 
