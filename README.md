@@ -1,5 +1,12 @@
 # Nodejs-Sqlite
-Install dependencies
+
+Install dependencies in sqlite-frontend
+```
+npm install axios
+```
+
+
+Install dependencies in sqlite-backend
 ```
 npm install nodemon
 ```
@@ -18,6 +25,18 @@ npm install cors
 
 ```
 npm install dotenv
+```
+
+Run frontend:
+./Nodejs-Sqlite/sqlite-frontend/
+```
+npm start
+```
+
+./Nodejs-Sqlite/sqlite-backend/
+Run backend Server:
+```
+nodemon
 ```
 
 
